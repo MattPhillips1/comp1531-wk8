@@ -9,3 +9,5 @@ class Graphic:
 
     def scale(self, shape, ratio):
         shape.scale(ratio)
+
+
